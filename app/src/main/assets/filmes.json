@@ -1,0 +1,34 @@
+{
+  "filmes": [
+    {
+      "titulo":"Pulp Fiction",
+      "genero": "Açao",
+      "ano": 1994
+    },
+    {
+      "titulo":"Solo: A Star Wars History",
+      "genero": "Aventura",
+      "ano": 2018
+    },
+    {
+      "titulo":"Bird Box",
+      "genero": "Drama",
+      "ano": 2018
+    },
+    {
+      "titulo":"Get Out",
+      "genero": "Terror",
+      "ano": 2017
+    },
+    {
+      "titulo":"Spotlight",
+      "genero": "Crime",
+      "ano": 2015
+    },
+    {
+      "titulo":"Unbreakable",
+      "genero": "Drama",
+      "ano": 2000
+    }
+  ]
+}

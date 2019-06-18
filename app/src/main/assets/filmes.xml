@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<filmes>
+    <pudim>
+        <titulo>Pulp Fiction</titulo>
+        <genero>Ação</genero>
+        <ano>1994</ano>
+    </pudim>
+
+    <pudim>
+        <titulo>Solo: A Star Wars History</titulo>
+        <genero>Aventura</genero>
+        <ano>2018</ano>
+    </pudim>
+
+    <pudim>
+        <titulo>Bird Box</titulo>
+        <genero>Drama</genero>
+        <ano>2018</ano>
+    </pudim>
+
+    <pudim>
+        <titulo>Get Out</titulo>
+        <genero>Terror</genero>
+        <ano>2017</ano>
+    </pudim>
+
+    <pudim>
+        <titulo>Spotlight</titulo>
+        <genero>Crime</genero>
+        <ano>2015</ano>
+    </pudim>
+
+    <pudim>
+        <titulo>Unbreakable</titulo>
+        <genero>Drama</genero>
+        <ano>2000</ano>
+    </pudim>
+
+</filmes>
